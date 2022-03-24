@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homework</title>
+  </head>
+  <header>
+    <h1>Модуль 1</h1>
+    <nav>
+      <ul>
+        <li><a href=>"lifestyle"</a></li>
+        <li><a href=>"photography"</a></li>
+        <li><a href=>"cswork"</a></li>
+        <li><a href=>"travel"</a></li>
+      </ul>
+    </nav>
+  </header>
+  <body>
+      <h2>More than just a music fastival</h2>
+      <img src="ДЗ/1.jpg" alt="lifestyle">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, distinctio? 
+        Tenetur veritatis voluptatum aliquam eius dignissimos. 
+        Excepturi ab eius enim ipsum nulla reiciendis adipisci, quos optio cum ducimus iste impedit!</p>
+        <h2>Life tastes better with cofe</h2>
+        <img src="ДЗ/2.jpg" alt="lifestyle">
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem, eos optio necessitatibus 
+          provident voluptas quia modi at possimus numquam assumenda porro fugiat temporibus quam asperiores 
+          nostrum molestiae? Quod, deserunt alias.</p>
+          <h2>American dream</h2>
+          <img src="ДЗ/3.jpg" alt="photography">
+          <h2>A day exploring the aps</h2>
+  </body>
+</html>
